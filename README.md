@@ -4,7 +4,7 @@ Example for VisualFBEditor
 # midiKeyboard
 This project needs to rely on gdipClock
 
-![image](https://github.com/chunmingwang/MidiKeyboard/assets/35757455/fc90d9cc-96dc-4486-8ae1-7237e98c0589)
+![image](https://github.com/chunmingwang/MidiKeyboard/assets/35757455/f82022f6-43b1-4e8d-b5bb-dfa7b9685cac)
 
 # midiPlayer
 This project needs to rely on MDINotepad
