@@ -6,7 +6,14 @@ MIDI stands for "Musical Instrument Digital Interface." It is a digital communic
 # midiKeyboard
 This project needs to rely on gdipClock
 
-![image](https://github.com/chunmingwang/MidiKeyboard/assets/35757455/f82022f6-43b1-4e8d-b5bb-dfa7b9685cac)
+Dark mode.
+
+<img width="696" height="263" alt="image" src="https://github.com/user-attachments/assets/80578ed6-e185-4223-ae07-9ca91c471b6e" />
+
+Light mode.
+
+<img width="696" height="263" alt="image" src="https://github.com/user-attachments/assets/ad94c4e5-08da-40aa-80a4-e6f074ee351d" />
+
 
 # midiPlayer
 This project needs to rely on MDINotepad
