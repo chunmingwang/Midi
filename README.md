@@ -11,14 +11,60 @@ This project needs to rely on gdipClock
 # midiPlayer
 This project needs to rely on MDINotepad
 
+**Aiming to become an excellent MIDI player to meet the needs of diverse users, from casual listeners to music producers and learners:**
+
+## Core Basic Functions
+
+1.  **Playback Control:**
+    *   Play/Pause
+    *   Stop
+    *   Fast Forward / Rewind
+    *   Loop Playback
+    *   Jump to Specific Position
+    *   Playback Speed Adjustment
+    *   Reset to Start
+
+2.  **File Management:**
+    *   Open Single MIDI Files (.mid, .midi)
+    *   Playlist Management (Create, Load, Save Playlists)
+    *   Basic File Information Display (Filename, Format, Length, Metadata within the file)
+
+3.  **Track Management:**
+    *   Track List Display (List all MIDI Channels and Tracks)
+    *   Mute/Unmute Individual Tracks
+    *   Solo Individual Tracks
+    *   View Track Names and Assigned Instruments (Program Change)
+    *   User-defined Instrument Assignment for Tracks
+
+## Enhanced Features & Visualization
+
+4.  **Visualization:**
+    *   **Channel Activity Indicator:** Visually displays which channels are receiving MIDI data in real-time.
+
+5.  **Output & Connectivity:**
+    *   **Audio Output:** Adjust master volume level.
+
+6.  **Settings & Configuration:**
+    *   Select Default MIDI Output Device (Hardware interface or software synthesizer).
+
+## Advanced/Professional Features
+7.  **Detailed Event List:** Displays all events within the MIDI file (Note On/Off, Controller Changes, Program Changes, etc.) in a list format for advanced user viewing and debugging.
+
+## User Experience & Accessibility
+
+8. **User-Friendly Interface:** Clear layout, intuitive operation, easy to learn and use.
+9. **Stability & Performance:** Reasonable resource usage, smooth playback without lag or crashes.
+
+User interface
+
 Dark mode.
 
-![image](https://github.com/user-attachments/assets/8741d77a-4cba-42fa-95c4-5a57b6a579bd)
+<img width="1010" height="593" alt="image" src="https://github.com/user-attachments/assets/85e1ecdc-21f2-4bfe-85f4-f9e8cf6d6fe8" />
 
-![image](https://github.com/user-attachments/assets/c34c7f12-7741-4c02-ac3a-e243984dde17)
+<img width="1010" height="593" alt="image" src="https://github.com/user-attachments/assets/dba2cc4f-8509-45ba-bd5b-97eee1af79ac" />
 
 Light mode.
 
-![image](https://github.com/user-attachments/assets/93b16b58-15ac-46ab-990e-1d2c6bd3ccf3)
+<img width="1010" height="593" alt="image" src="https://github.com/user-attachments/assets/b78d2284-e69f-45de-9bc7-a94b25c6aba5" />
 
-![image](https://github.com/user-attachments/assets/ffe9ff8c-746d-4482-ac5b-dce09e932ae2)
+<img width="1010" height="593" alt="image" src="https://github.com/user-attachments/assets/8759266a-ebce-4bca-917e-272d20c3fab5" />
